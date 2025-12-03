@@ -1,0 +1,7 @@
+my_dict = {
+    "name": "Sanskar",
+    "age": 18,
+    "city": "Tamalwadi"
+}
+
+print(my_dict)
